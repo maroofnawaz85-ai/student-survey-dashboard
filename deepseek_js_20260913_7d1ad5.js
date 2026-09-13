@@ -1,1 +1,0 @@
-const fmt = (n, d=2) => Number(n).toFixed(d);
